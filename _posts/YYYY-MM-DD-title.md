@@ -1,5 +1,5 @@
 ---
-title: "
+title: "2+Collective's Personal Blog" 
 date: 2025-07-04
 ---
 
