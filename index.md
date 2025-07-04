@@ -3,7 +3,7 @@
 ---
 <img alt= ying and yang src="https://static.vecteezy.com/system/resources/previews/022/926/132/non_2x/yin-yang-symbol-icon-design-flat-icon-vector.jpg">
 
-'<h1>' Enjoy the journey with 2+Collective '<h1>'
+## Enjoy the journey with 2+Collective ##
 -[] Checkout [Github blog] ([https://2collective.github.io/skills-github-pages/])
 
 '<h2>' This is only the beginning '<h2>'
