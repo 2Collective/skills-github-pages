@@ -1,7 +1,5 @@
 ---
-title: "🌾 TechnoFarms 2050: Where AI Meets Dirt
-
-## 🤖 Intelligence in the Fields: The AI Overhaul of Agriculture"
+title: "Welcome to my blog"
 date: 2025-07-04
 ---
 # 🌾 TechnoFarms 2050: Where AI Meets Dirt
